@@ -1,2 +1,2 @@
-const {start,end} = require('./src/function')
+const mileage = require('./src/function')
 
